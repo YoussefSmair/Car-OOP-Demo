@@ -1,0 +1,3 @@
+This project is a practical demonstration of Object-Oriented Programming in Python, focusing on building and interacting with different types of car objects. The notebook includes several Car classes with attributes such as brand, model, year, and speed, along with methods that simulate real behaviors like starting the engine, adjusting speed, and displaying vehicle information.
+In addition, the project introduces an ElectricCar class that inherits from the base Car class, highlighting the concept of inheritance and how subclasses can extend or modify parent functionality.
+This notebook is designed for learners who want to practice OOP fundamentals through simple, clear, and hands-on examples.
